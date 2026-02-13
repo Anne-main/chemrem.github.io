@@ -1,0 +1,414 @@
+{
+  "procedures": [
+    {
+      "id": "proc_001",
+      "productId": "pc_001",
+      "title": "Liquid Waterproofing Membrane Application",
+      "category": "waterproofing",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Surface Preparation",
+          "description": "Clean the surface thoroughly to remove dirt, dust, loose particles, and contaminants",
+          "details": [
+            "Use pressure washing or wire brushing",
+            "Remove all efflorescence and salts",
+            "Ensure surface is clean and dry or slightly damp",
+            "Fill large cracks with appropriate crack filler",
+            "Repair any damaged areas before application"
+          ],
+          "tools": ["pressure washer", "wire brush", "broom", "cloth"]
+        },
+        {
+          "stepNumber": 2,
+          "title": "Surface Drying",
+          "description": "Allow adequate drying time if high moisture is present",
+          "details": [
+            "For damp surfaces, wait 2-4 hours",
+            "For wet surfaces, allow 24 hours drying",
+            "Ensure surface is not actively weeping water",
+            "Verify moisture content with moisture meter if available"
+          ],
+          "tools": ["moisture meter", "ventilation fans"]
+        },
+        {
+          "stepNumber": 3,
+          "title": "Primer Application (if required)",
+          "description": "Apply primer on highly absorbent or porous surfaces",
+          "details": [
+            "Use recommended primer for specific membrane",
+            "Apply one thin coat with brush or roller",
+            "Allow primer to dry per manufacturer instructions",
+            "Typical drying time: 2-4 hours",
+            "Primer helps achieve uniform coverage"
+          ],
+          "tools": ["primer", "brush", "roller", "paint tray"]
+        },
+        {
+          "stepNumber": 4,
+          "title": "First Coat Application",
+          "description": "Apply the first coat of liquid waterproofing membrane",
+          "details": [
+            "Stir the membrane thoroughly before use",
+            "Apply with a paint roller or spray application",
+            "Ensure uniform thickness of 1.5-2.0 mm",
+            "Apply in overlapping passes",
+            "Work from one side to the other systematically",
+            "Pay special attention to joints and corners"
+          ],
+          "tools": ["paint roller", "brush", "paint tray", "spray equipment"]
+        },
+        {
+          "stepNumber": 5,
+          "title": "Drying Between Coats",
+          "description": "Allow adequate drying time before second coat",
+          "details": [
+            "Wait 4-6 hours in normal conditions",
+            "Extended time needed in high humidity or low temperature",
+            "Surface should be touch-dry before second coat",
+            "Check for any defects or missed areas"
+          ],
+          "tools": ["ventilation fans"]
+        },
+        {
+          "stepNumber": 6,
+          "title": "Second Coat Application",
+          "description": "Apply second coat perpendicular to first coat",
+          "details": [
+            "Apply in perpendicular direction for complete coverage",
+            "Maintain uniform thickness",
+            "Ensure no thin spots or pinholes",
+            "Total thickness should be 3.0-4.0 mm for two coats"
+          ],
+          "tools": ["paint roller", "brush", "paint tray"]
+        },
+        {
+          "stepNumber": 7,
+          "title": "Curing",
+          "description": "Allow proper curing time before water exposure",
+          "details": [
+            "Wait minimum 7-14 days before water exposure",
+            "Temperature affects curing: 5°C to 35°C optimal",
+            "Avoid foot traffic during initial curing",
+            "Keep area well-ventilated",
+            "Protect from rain or direct water spray for first 48 hours"
+          ],
+          "tools": ["protective covering"]
+        },
+        {
+          "stepNumber": 8,
+          "title": "Final Inspection",
+          "description": "Inspect the finished membrane for quality",
+          "details": [
+            "Check for complete coverage",
+            "Verify no thin spots or pinholes",
+            "Ensure proper adhesion at all edges and corners",
+            "Document inspection with photographs",
+            "Record date and environmental conditions"
+          ],
+          "tools": ["flashlight", "measuring tape", "camera"]
+        }
+      ],
+      "safetyPrecautions": [
+        "Ensure proper ventilation during application",
+        "Use appropriate personal protective equipment (PPE)",
+        "Avoid skin contact with uncured membrane",
+        "Keep area clear of unnecessary personnel",
+        "Have first aid kit available on site"
+      ],
+      "qualityChecklist": [
+        "Surface properly prepared and cleaned",
+        "Correct coverage rate achieved",
+        "Uniform thickness maintained",
+        "All joints and corners properly sealed",
+        "Adequate curing time observed",
+        "No visible defects or pinholes",
+        "Proper adhesion to substrate"
+      ]
+    },
+    {
+      "id": "proc_002",
+      "productId": "pc_003",
+      "title": "Polymer Modified Concrete Adhesive Application",
+      "category": "adhesives",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Substrate Preparation",
+          "description": "Prepare concrete substrate for adhesive application",
+          "details": [
+            "Clean substrate with wire brush or grinding machine",
+            "Remove all loose concrete and contaminants",
+            "Ensure surface is hard and solid",
+            "Remove any old adhesive or coatings",
+            "Use pressure washing if heavily soiled",
+            "Surface should be dust-free"
+          ],
+          "tools": ["wire brush", "grinder", "pressure washer", "broom"]
+        },
+        {
+          "stepNumber": 2,
+          "title": "Surface Conditioning",
+          "description": "Condition surface for optimal adhesive bonding",
+          "details": [
+            "Dampen surface with water 24 hours before application",
+            "Surface should be damp but not wet or weeping",
+            "Excess water should be removed with cloth or squeegee",
+            "Surface should be 'damp-dry' for best results"
+          ],
+          "tools": ["water spray", "cloth", "squeegee"]
+        },
+        {
+          "stepNumber": 3,
+          "title": "Adhesive Mixing",
+          "description": "Prepare adhesive for application",
+          "details": [
+            "For ready-to-use: ensure proper consistency",
+            "For powder form: mix with specified water ratio",
+            "Use mechanical mixer for uniform consistency",
+            "Mix time: typically 3-5 minutes",
+            "Let mixed adhesive rest for 2-3 minutes",
+            "Remix gently before application"
+          ],
+          "tools": ["mixing paddle", "drill mixer"]
+        },
+        {
+          "stepNumber": 4,
+          "title": "Adhesive Application",
+          "description": "Apply adhesive to substrate",
+          "details": [
+            "Use notched trowel for uniform distribution",
+            "Apply adhesive to substrate or bonded material",
+            "Maintain consistent ridges of approximately 5mm",
+            "Work area should be manageable in 30-45 minutes",
+            "Apply adhesive evenly without gaps",
+            "Recommended coverage: 4-5 kg/m² at 3mm thickness"
+          ],
+          "tools": ["notched trowel", "margin trowel", "trowel pan"]
+        },
+        {
+          "stepNumber": 5,
+          "title": "Material Placement",
+          "description": "Place tiles or concrete elements into adhesive",
+          "details": [
+            "Press tiles firmly into adhesive bed",
+            "Ensure complete contact between tile and adhesive",
+            "Use slight twisting motion for better bonding",
+            "Use tile spacers for consistent joint width",
+            "Work from bottom to top on vertical surfaces",
+            "Maintain proper joint alignment and level"
+          ],
+          "tools": ["tile spacers", "level", "rubber mallet", "sponge"]
+        },
+        {
+          "stepNumber": 6,
+          "title": "Curing Time",
+          "description": "Allow adhesive to cure before grouting or loading",
+          "details": [
+            "Initial set: 24 hours minimum",
+            "Full cure: 48 hours before grouting",
+            "Do not subject to loading or traffic during cure",
+            "Temperature affects curing: 5°C to 40°C optimal",
+            "Higher humidity may extend curing time",
+            "Protect from rain or water spray"
+          ],
+          "tools": ["protective covering"]
+        },
+        {
+          "stepNumber": 7,
+          "title": "Final Inspection and Grouting",
+          "description": "Inspect bonded material and proceed with grouting",
+          "details": [
+            "Check for hollow spots by tapping",
+            "Verify tiles are level and properly aligned",
+            "Ensure no movement when pressure applied",
+            "Once cured, remove spacers and apply grout",
+            "Document installation with photographs"
+          ],
+          "tools": ["grout float", "sponge", "bucket", "camera"]
+        }
+      ],
+      "safetyPrecautions": [
+        "Ensure proper ventilation",
+        "Use dust masks when grinding surfaces",
+        "Wear gloves and safety glasses",
+        "Keep electrical equipment away from water",
+        "Follow manufacturer's safety data sheet"
+      ],
+      "qualityChecklist": [
+        "Substrate properly prepared and conditioned",
+        "Adhesive properly mixed and applied",
+        "Uniform adhesive thickness achieved",
+        "Complete contact between materials ensured",
+        "Proper curing time observed",
+        "No hollow spots or delamination",
+        "Level and aligned finish",
+        "No cracking or adhesive failure"
+      ]
+    },
+    {
+      "id": "proc_003",
+      "productId": "pc_008",
+      "title": "Acrylic Protective Coating Application",
+      "category": "protective_coatings",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Surface Assessment",
+          "description": "Assess existing surface condition and plan preparation",
+          "details": [
+            "Inspect for cracks, spalls, and defects",
+            "Identify heavily stained or discolored areas",
+            "Check moisture and salt content if applicable",
+            "Take surface profile measurements if needed",
+            "Photograph existing conditions for documentation"
+          ],
+          "tools": ["moisture meter", "crack gauge", "camera"]
+        },
+        {
+          "stepNumber": 2,
+          "title": "Surface Cleaning",
+          "description": "Remove dirt, algae, and surface contaminants",
+          "details": [
+            "Use pressure washing at 200-300 bar pressure",
+            "For heavily soiled areas: use chemical cleaner",
+            "Remove all algae, mold, and biological growth",
+            "Allow cleaner to work for specified time",
+            "Rinse thoroughly with clean water",
+            "Ensure all soap and cleaner residue is removed"
+          ],
+          "tools": ["pressure washer", "chemical cleaner", "brush", "squeegee"]
+        },
+        {
+          "stepNumber": 3,
+          "title": "Repair of Defects",
+          "description": "Repair cracks and damaged areas before coating",
+          "details": [
+            "Fill cracks wider than 2mm with crack filler",
+            "Fill spalls and surface voids with patching mortar",
+            "Allow adequate curing of repairs",
+            "Sand smooth any protruding repairs",
+            "Ensure all repairs are fully cured before coating"
+          ],
+          "tools": ["crack filler", "putty knife", "patching mortar", "sandpaper"]
+        },
+        {
+          "stepNumber": 4,
+          "title": "Surface Drying",
+          "description": "Allow surface to dry completely before coating",
+          "details": [
+            "After pressure washing, allow 24-48 hours drying",
+            "Check moisture content with moisture meter",
+            "Surface should be dry to touch",
+            "In humid conditions, use ventilation fans",
+            "Do not apply in rain or high humidity (>85%)"
+          ],
+          "tools": ["moisture meter", "ventilation fans"]
+        },
+        {
+          "stepNumber": 5,
+          "title": "Primer Application",
+          "description": "Apply primer for enhanced adhesion and uniform color",
+          "details": [
+            "Use high-quality concrete primer",
+            "Apply with roller at 8-10 m²/liter coverage",
+            "Ensure uniform coverage without gaps",
+            "Allow 2-4 hours drying between primer and topcoat",
+            "Some areas may need two primer coats"
+          ],
+          "tools": ["paint roller", "brush", "paint tray", "extension pole"]
+        },
+        {
+          "stepNumber": 6,
+          "title": "First Coat Application",
+          "description": "Apply first coat of acrylic protective coating",
+          "details": [
+            "Stir coating thoroughly before use",
+            "Apply with high-quality paint roller",
+            "Coverage: 8-12 m²/liter per coat",
+            "Maintain consistent thickness",
+            "Apply in overlapping parallel passes",
+            "Ensure no thin spots or bare areas",
+            "Pay attention to edges and corners"
+          ],
+          "tools": ["paint roller", "brush", "paint tray", "extension pole"]
+        },
+        {
+          "stepNumber": 7,
+          "title": "Drying Between Coats",
+          "description": "Allow adequate drying time before second coat",
+          "details": [
+            "Dry time: 2-4 hours depending on temperature",
+            "Lower temperature and higher humidity extend drying",
+            "Ensure surface is completely dry to touch",
+            "Do not apply second coat if surface feels tacky",
+            "Environmental conditions affect drying time"
+          ],
+          "tools": ["ventilation fans", "drying check stick"]
+        },
+        {
+          "stepNumber": 8,
+          "title": "Second Coat Application",
+          "description": "Apply second coat for complete coverage and protection",
+          "details": [
+            "Apply second coat in perpendicular direction",
+            "Maintain uniform thickness",
+            "Ensure complete coverage without pinholes",
+            "Total coverage provides enhanced protection",
+            "Allow adequate drying after second coat"
+          ],
+          "tools": ["paint roller", "brush", "paint tray"]
+        },
+        {
+          "stepNumber": 9,
+          "title": "Curing and Walkway Opening",
+          "description": "Allow full curing before allowing foot traffic",
+          "details": [
+            "Surface sets to touch in 2-4 hours",
+            "Do not allow foot traffic for 24 hours",
+            "Light foot traffic after 48 hours",
+            "Full cure time: 7 days",
+            "Protect from rain for first 48 hours if possible",
+            "Optimal curing temperature: 15°C to 25°C"
+          ],
+          "tools": ["protective barriers"]
+        },
+        {
+          "stepNumber": 10,
+          "title": "Final Quality Inspection",
+          "description": "Verify final coating quality and appearance",
+          "details": [
+            "Inspect for uniform color and appearance",
+            "Check for complete coverage",
+            "Verify no wet spots, runs, or sags",
+            "Ensure no pinholes or bare spots",
+            "Walk surface to check adhesion",
+            "Document final condition with photographs",
+            "Record project details and materials used"
+          ],
+          "tools": ["flashlight", "camera", "inspection notes"]
+        }
+      ],
+      "safetyPrecautions": [
+        "Ensure adequate ventilation during application",
+        "Use appropriate respiratory protection if needed",
+        "Wear gloves and safety glasses",
+        "Use fall prevention equipment on elevated surfaces",
+        "Keep area cordoned off during application and curing",
+        "Have safety data sheet available on site"
+      ],
+      "qualityChecklist": [
+        "Surface properly cleaned and prepared",
+        "All defects repaired before coating",
+        "Surface completely dry before coating",
+        "Primer properly applied (if required)",
+        "First coat provides complete coverage",
+        "Uniform color and appearance achieved",
+        "Second coat applied for enhanced protection",
+        "No runs, sags, or application defects",
+        "Adequate curing time observed",
+        "Professional finished appearance achieved"
+      ]
+    }
+  ]
+}

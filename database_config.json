@@ -1,0 +1,37 @@
+{
+  "database": {
+    "development": {
+      "host": "localhost",
+      "port": 3306,
+      "username": "root",
+      "password": "password",
+      "database": "constructchem_db",
+      "dialect": "mysql"
+    },
+    "production": {
+      "host": "prod-db-server.example.com",
+      "port": 3306,
+      "username": "prod_user",
+      "password": "${DB_PASSWORD}",
+      "database": "constructchem_prod",
+      "dialect": "mysql",
+      "ssl": true
+    },
+    "testing": {
+      "host": "localhost",
+      "port": 3306,
+      "username": "test_user",
+      "password": "test_password",
+      "database": "constructchem_test",
+      "dialect": "mysql"
+    }
+  },
+  "api": {
+    "port": 3000,
+    "environment": "development",
+    "cors": {
+      "origin": ["http://localhost:3000", "https://constructchempro.com"],
+      "credentials": true
+    }
+  }
+}
