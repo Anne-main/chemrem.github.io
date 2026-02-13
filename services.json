@@ -1,0 +1,450 @@
+{
+  "services": [
+    {
+      "id": "svc_001",
+      "name": "Surface Preparation and Assessment",
+      "category": "preparation",
+      "description": "Comprehensive surface evaluation and preparation for chemical application",
+      "details": {
+        "overview": "Professional assessment and preparation of substrate surfaces to ensure optimal adhesion and performance of construction chemicals",
+        "scope": [
+          "Thorough surface inspection and damage assessment",
+          "Cleaning and decontamination of all surfaces",
+          "Crack and spall identification and documentation",
+          "Moisture and salt content testing",
+          "Surface profile measurement and analysis",
+          "Repair of significant defects",
+          "Final surface conditioning"
+        ],
+        "benefits": [
+          "Ensures maximum performance of applied chemicals",
+          "Prevents premature failure of coating or waterproofing",
+          "Identifies potential issues before application",
+          "Comprehensive documentation for warranty purposes",
+          "Professional execution prevents costly rework"
+        ]
+      },
+      "process": {
+        "initialInspection": {
+          "description": "Visual assessment and environmental evaluation",
+          "includes": [
+            "Structural damage assessment",
+            "Surface contamination analysis",
+            "Environmental condition evaluation",
+            "Documentation of existing conditions"
+          ]
+        },
+        "testing": {
+          "description": "Quantitative testing of surface properties",
+          "includes": [
+            "Moisture content measurement",
+            "Salt content testing",
+            "Surface profile determination",
+            "pH and efflorescence analysis",
+            "Adhesion strength evaluation"
+          ]
+        },
+        "cleaning": {
+          "description": "Professional surface cleaning methods",
+          "includes": [
+            "Pressure washing",
+            "Chemical cleaning for heavy contamination",
+            "Wire brushing for loose material",
+            "Grinding for surface profile adjustment",
+            "Complete rinsing and drying"
+          ]
+        },
+        "repairAndPreparation": {
+          "description": "Repair of substrate defects",
+          "includes": [
+            "Crack filling",
+            "Spall repair",
+            "Surface smoothing",
+            "Void filling",
+            "Joint preparation"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc_002",
+      "name": "Professional Application Service",
+      "category": "application",
+      "description": "Expert application of construction chemicals with precision and quality assurance",
+      "details": {
+        "overview": "Skilled application of waterproofing membranes, adhesives, coatings, and other construction chemicals using professional techniques",
+        "scope": [
+          "Waterproofing membrane application",
+          "Adhesive application for tiles and overlays",
+          "Protective coating application",
+          "Concrete admixture incorporation",
+          "Specialized application techniques",
+          "Quality control during application",
+          "Environmental condition monitoring"
+        ],
+        "benefits": [
+          "Professional-grade results",
+          "Proper chemical mixing and consistency",
+          "Optimal coverage and thickness",
+          "Adherence to manufacturer specifications",
+          "Warranty-qualifying installation",
+          "Reduced material waste"
+        ]
+      },
+      "applicationTypes": {
+        "waterproofing": {
+          "description": "Expert application of liquid and crystalline waterproofing systems",
+          "methods": [
+            "Roller application for uniform coverage",
+            "Spray application for large areas",
+            "Brush application for detailed work",
+            "Multi-coat systems for enhanced protection"
+          ]
+        },
+        "adhesives": {
+          "description": "Precise adhesive application for maximum bonding strength",
+          "methods": [
+            "Trowel application with proper notch size",
+            "Uniform bed preparation",
+            "Proper pressure and seating",
+            "Spacer utilization for consistent joints"
+          ]
+        },
+        "coatings": {
+          "description": "Professional protective coating application",
+          "methods": [
+            "Primer application for substrate preparation",
+            "Roll or spray application",
+            "Cross-directional coat application",
+            "Complete coverage verification"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc_003",
+      "name": "Quality Inspection and Testing",
+      "category": "inspection",
+      "description": "Comprehensive quality assurance and performance testing of applied chemicals",
+      "details": {
+        "overview": "Systematic inspection and testing to verify that all applied chemical systems meet design specifications and performance requirements",
+        "scope": [
+          "Visual inspection for defects",
+          "Thickness measurement verification",
+          "Adhesion testing",
+          "Moisture testing",
+          "Coverage verification",
+          "Performance testing",
+          "Documentation and reporting",
+          "Remedial work identification"
+        ],
+        "benefits": [
+          "Assurance of proper chemical application",
+          "Early detection of installation issues",
+          "Warranty compliance verification",
+          "Performance guarantee documentation",
+          "Comprehensive project records",
+          "Client confidence in quality"
+        ]
+      },
+      "inspectionMethods": {
+        "visualInspection": {
+          "description": "Detailed visual assessment of finished work",
+          "checks": [
+            "Complete coverage verification",
+            "Uniform color and appearance",
+            "Absence of pinholes or defects",
+            "Proper edge and corner finishing",
+            "No delamination or adhesion failures",
+            "Joint consistency and alignment"
+          ]
+        },
+        "thicknessMeasurement": {
+          "description": "Verification of coating or membrane thickness",
+          "tools": [
+            "Wet film thickness gauge",
+            "Dry film thickness gauge",
+            "Ultrasonic thickness measurement"
+          ],
+          "standards": "Thickness must meet design specifications"
+        },
+        "adhesionTesting": {
+          "description": "Testing of bond strength between materials",
+          "methods": [
+            "Pull-off adhesion testing",
+            "Cross-hatch adhesion testing",
+            "Tap testing for hollow spots",
+            "ASTM standard compliance"
+          ]
+        },
+        "moistureTesting": {
+          "description": "Verification of substrate moisture levels",
+          "methods": [
+            "Calcium chloride testing",
+            "In-situ moisture meter reading",
+            "Humidity measurement",
+            "Moisture gradation analysis"
+          ]
+        }
+      },
+      "reporting": {
+        "documentation": [
+          "Photographic evidence of quality",
+          "Test results and measurements",
+          "Remedial work requirements",
+          "Warranty certification",
+          "Compliance statements"
+        ],
+        "deliverables": [
+          "Detailed inspection report",
+          "Test data summary",
+          "Remedial action plan if needed",
+          "Quality certification",
+          "Project completion documentation"
+        ]
+      }
+    },
+    {
+      "id": "svc_004",
+      "name": "Maintenance Advice and Planning",
+      "category": "maintenance",
+      "description": "Expert guidance on long-term maintenance of applied chemical systems",
+      "details": {
+        "overview": "Professional recommendations for ongoing maintenance to maximize service life and performance of construction chemical applications",
+        "scope": [
+          "Maintenance schedule development",
+          "Cleaning recommendations",
+          "Inspection guidelines",
+          "Repair procedures for minor issues",
+          "Re-coating schedules",
+          "Environmental protection measures",
+          "Performance monitoring"
+        ],
+        "benefits": [
+          "Extended service life of applied systems",
+          "Prevention of premature failures",
+          "Cost savings through proactive maintenance",
+          "Optimal performance preservation",
+          "Warranty protection compliance",
+          "Long-term investment protection"
+        ]
+      },
+      "maintenanceServices": {
+        "preventiveMaintenance": {
+          "description": "Proactive maintenance to prevent issues",
+          "activities": [
+            "Regular surface inspection",
+            "Routine cleaning protocols",
+            "Early damage detection",
+            "Preventive repairs",
+            "Performance monitoring"
+          ],
+          "frequency": "Typically quarterly to annually depending on environment"
+        },
+        "periodicInspection": {
+          "description": "Scheduled assessment of system condition",
+          "includes": [
+            "Visual inspection for new defects",
+            "Testing for coating adhesion",
+            "Moisture content verification",
+            "Drainage system inspection",
+            "Documentation of findings"
+          ],
+          "frequency": "Typically annually or bi-annually"
+        },
+        "cleaningServices": {
+          "description": "Professional cleaning to maintain appearance and function",
+          "methods": [
+            "Pressure washing for external surfaces",
+            "Chemical cleaning for heavy contamination",
+            "Gentle cleaning for sensitive areas",
+            "Algae and mold removal",
+            "Stain removal techniques"
+          ],
+          "benefits": [
+            "Maintains aesthetic appeal",
+            "Prevents surface deterioration",
+            "Extends coating life",
+            "Improves safety (slip resistance)"
+          ]
+        },
+        "minorRepairs": {
+          "description": "Repair of small defects and issues",
+          "scope": [
+            "Small crack sealing",
+            "Spot coating for wear areas",
+            "Joint repair and resealing",
+            "Touch-up painting",
+            "Minor sealant replacement"
+          ]
+        },
+        "majorRepairs": {
+          "description": "Remediation of significant issues",
+          "scope": [
+            "Large area recoating",
+            "Substrate repair and restoration",
+            "System replacement where needed",
+            "Waterproofing membrane restoration",
+            "Complete surface rehabilitation"
+          ]
+        }
+      },
+      "maintenancePlanning": {
+        "scheduleCreation": "Development of customized maintenance schedule based on environmental conditions and usage",
+        "budgeting": "Cost projections for planned maintenance activities",
+        "documentation": "Maintenance log and performance tracking",
+        "reporting": "Regular maintenance status reports"
+      }
+    },
+    {
+      "id": "svc_005",
+      "name": "Specialized Application Services",
+      "category": "specialized",
+      "description": "Custom application services for unique or challenging project requirements",
+      "details": {
+        "overview": "Expert services for specialized applications and challenging environmental or structural conditions",
+        "scope": [
+          "High-altitude and difficult-access applications",
+          "Extreme weather application (hot, cold, wet)",
+          "Large-scale industrial projects",
+          "Emergency waterproofing and repairs",
+          "Detailed restoration work",
+          "Specialized surface conditions",
+          "Complex application sequences"
+        ],
+        "benefits": [
+          "Professional handling of complex projects",
+          "Safety assurance in challenging conditions",
+          "Optimal results in difficult environments",
+          "Emergency response capability",
+          "Specialized equipment and expertise"
+        ]
+      },
+      "specializedServices": {
+        "highAccessApplication": {
+          "description": "Application on elevated or difficult-to-access surfaces",
+          "includes": [
+            "High-rise building waterproofing",
+            "Roof-level application",
+            "Bridge and overpass work",
+            "Tower and structure application",
+            "Safety protocols for elevated work"
+          ]
+        },
+        "extremeWeatherApplication": {
+          "description": "Application in challenging environmental conditions",
+          "conditions": [
+            "Cold weather application (below 5°C)",
+            "Hot weather application (above 35°C)",
+            "High humidity application",
+            "Salt-spray environments",
+            "UV-intensive locations"
+          ]
+        },
+        "largeScaleIndustrialProjects": {
+          "description": "Application services for major industrial facilities",
+          "scope": [
+            "Manufacturing plants and warehouses",
+            "Chemical storage facilities",
+            "Food and beverage processing areas",
+            "Large parking structures",
+            "Extensive floor coatings"
+          ]
+        },
+        "emergencyRepair": {
+          "description": "Rapid response for urgent waterproofing or repair needs",
+          "services": [
+            "Emergency water infiltration sealing",
+            "Temporary waterproofing solutions",
+            "Rapid-cure product application",
+            "24/7 emergency response capability",
+            "Quick restoration protocols"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc_006",
+      "name": "Consultation and Design Services",
+      "category": "consultation",
+      "description": "Professional engineering and design consultation for chemical selection and application strategy",
+      "details": {
+        "overview": "Expert technical consultation to determine optimal chemical systems and application approaches for specific project requirements",
+        "scope": [
+          "Project requirements analysis",
+          "Chemical system selection",
+          "Application methodology planning",
+          "Environmental condition assessment",
+          "Cost and timeline evaluation",
+          "Performance prediction",
+          "Specification development",
+          "Warranty and liability planning"
+        ],
+        "benefits": [
+          "Optimal chemical selection for project needs",
+          "Cost-effective solutions",
+          "Reduced risk of failure",
+          "Efficient project planning",
+          "Professional warranty protection",
+          "Performance guarantee assurance"
+        ]
+      },
+      "consultationServices": {
+        "projectAnalysis": {
+          "description": "Detailed assessment of project requirements",
+          "includes": [
+            "Environmental condition evaluation",
+            "Substrate type and condition assessment",
+            "Performance requirements determination",
+            "Budget and timeline constraints",
+            "Accessibility and logistics planning"
+          ]
+        },
+        "chemicalSelection": {
+          "description": "Expert recommendation of appropriate chemical systems",
+          "considers": [
+            "Environmental exposure conditions",
+            "Substrate compatibility",
+            "Performance requirements",
+            "Long-term durability needs",
+            "Cost-benefit analysis",
+            "Application ease and timeline"
+          ]
+        },
+        "applicationStrategy": {
+          "description": "Development of optimal application approach",
+          "includes": [
+            "Surface preparation requirements",
+            "Application method selection",
+            "Sequence and timing planning",
+            "Equipment and resource needs",
+            "Quality assurance procedures",
+            "Timeline development"
+          ]
+        },
+        "specificationDevelopment": {
+          "description": "Creation of detailed project specifications",
+          "documents": [
+            "Chemical system specifications",
+            "Surface preparation standards",
+            "Application procedure requirements",
+            "Quality assurance criteria",
+            "Testing and inspection protocols",
+            "Warranty and performance guarantees"
+          ]
+        },
+        "costEstimation": {
+          "description": "Detailed cost analysis and budget planning",
+          "includes": [
+            "Material cost estimation",
+            "Labor requirements and costs",
+            "Equipment rental or purchase",
+            "Timeline and scheduling costs",
+            "Contingency planning",
+            "Value engineering opportunities"
+          ]
+        }
+      }
+    }
+  ]
+}
